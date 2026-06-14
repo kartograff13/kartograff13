@@ -81,17 +81,17 @@
 
 ## 📁 Мои проекты (8 учебных + 1 коммерческий)
 
-| # | Проект | Кратко | Ключевой стек |
-|---|--------|--------|----------------|
-| 1 | [HM Products Sales](https://github.com/kartograff13/hm_products_sales) | Управление товарами, категориями, заказами | Python, аннотации, pytest |
-| 2 | [Парсер вакансий hh.ru](https://github.com/kartograff13/hm_feature_4_hh_vacancies) | Поиск, фильтрация, сохранение в 3 форматах | requests, JSON/CSV/TXT |
-| 3 | [HH Parser & Loader](https://github.com/kartograff13/hw_feature_hh_parser_loader) | Загрузка компаний и вакансий в PostgreSQL | PostgreSQL, DBManager |
-| 4 | [SkyStore](https://github.com/kartograff13/hw_online_store) | Интернет-магазин цифровых продуктов | Django, Bootstrap, SQLite |
-| 5 | [LMS-платформа](https://github.com/kartograff13/hw_djangodevcourse) | Курсы, уроки, подписки, Stripe, JWT | Django, DRF, PostgreSQL, Stripe, Docker |
-| 6 | [Atomic Habit Tracker](https://github.com/kartograff13/atomic_habit_tracker) | Трекер привычек с Telegram-напоминаниями | Celery, Redis, Telegram, CI/CD |
-| 7 | [Mindself Psy Manufactory](https://github.com/kartograff13/mindself_psy_manufactory) | Коммерческий проект (психологическая платформа) | Django, DRF, JWT, Swagger, JS |
-| 8 | [HW Bank](https://github.com/kartograff13/hw_bank) | Виджет банковских операций | pandas, openpyxl, Poetry |
-| 9 | [Bank Fixtures](https://github.com/kartograff13/bank_fixtures) | Анализ транзакций, отчёты, курсы валют | декораторы, API, тестирование |
+| # | Проект                                                                               | Кратко                                          | Ключевой стек                           |
+|---|--------------------------------------------------------------------------------------|-------------------------------------------------|-----------------------------------------|
+| 1 | [HM Products Sales](https://github.com/kartograff13/hm_products_sales/tree/develop)               | Управление товарами, категориями, заказами      | Python, аннотации, pytest               |
+| 2 | [Парсер вакансий hh.ru](https://github.com/kartograff13/hm_feacture_4_hh_vacancies/tree/develop)   | Поиск, фильтрация, сохранение в 3 форматах      | requests, JSON/CSV/TXT                  |
+| 3 | [HH Parser & Loader](https://github.com/kartograff13/hw_feacture_hh_parser_loader/tree/develop)    | Загрузка компаний и вакансий в PostgreSQL       | PostgreSQL, DBManager                   |
+| 4 | [SkyStore](https://github.com/kartograff13/hw_online_store/tree/develop)                          | Интернет-магазин цифровых продуктов             | Django, Bootstrap, SQLite               |
+| 5 | [LMS-платформа](https://github.com/kartograff13/hw_djangodevcourse/tree/develop)                  | Курсы, уроки, подписки, Stripe, JWT             | Django, DRF, PostgreSQL, Stripe, Docker |
+| 6 | [Atomic Habit Tracker](https://github.com/kartograff13/atomic_habit_tracker)         | Трекер привычек с Telegram-напоминаниями        | Celery, Redis, Telegram, CI/CD          |
+| 7 | [Mindself Psy Manufactory](https://github.com/kartograff13/mindself_psy_manufactory/tree/develop) | Коммерческий проект (психологическая платформа) | Django, DRF, JWT, Swagger, JS           |
+| 8 | [HW Bank](https://github.com/kartograff13/hw_bank)                                   | Виджет банковских операций                      | pandas, openpyxl, Poetry                |
+| 9 | [Bank Fixtures](https://github.com/kartograff13/bank_fixtures/tree/develop)                       | Анализ транзакций, отчёты, курсы валют          | декораторы, API, тестирование           |
 
 > Все репозитории открыты, ссылки ведут на ветку `develop`.
 
